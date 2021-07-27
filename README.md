@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anything to get me experience!
 - 📫 How to reach me scdt_2001_sec@hotmail.com 
 
-- Linux Essentials, Python Basics, Python Essentials, HTML, CSS
+- Linux Essentials, Python Essentials, Python Intermediate, HTML Essentials, CSS Essentials
 
 <!---
 ScubaDave204/ScubaDave204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
